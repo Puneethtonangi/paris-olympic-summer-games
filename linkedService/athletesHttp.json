@@ -1,0 +1,12 @@
+{
+	"name": "athletesHttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Puneethtonangi/paris-olympic-summer-games/refs/heads/main/data/athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
