@@ -1,0 +1,9 @@
+{
+	"name": "parissolympicsdf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a31815a-a954-4d4d-8082-6a2316290503",
+		"tenantId": "4e7f3ad1-1c6d-4147-bb2b-11c5688534d8"
+	}
+}
